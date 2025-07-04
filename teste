@@ -24,9 +24,97 @@
   </header>
   <main>
     <div>
-      <h5>Best Destinations Around The World</h5>
+      <h4>Best Destinations Around The World</h4>
       <h1>Travel,<div class="c">enjoy</div> and live a new and full life</h1>
+      <p>Buit Wicket longer admire do barton vanity itself do in it. Preferred to sportsmen it engrossed listening. Park gate sell they hard for the.</p>
+      <button class="find">Find out more</button>
+      <a href="link">Play Demo</a>
+      <img src="#" alt="">
     </div>
+  <section>
+     <p>CATEGORY</p>
+    <h2>We Offer Best Services</h2>
+    <div class="um"><img src="#" alt="#"><p>Calculated Weather</p>
+      <p>Built Wicket longer admire do barton vanity itself do in it.</p>
+    </div>
+    <div class="dois"><img src="#" alt="#"><p>Best Flights</p>
+      <p>Engrossed listening. park gate sell they west hard for the.</p>
+    </div>
+    <div class="tres"><img src="#" alt="#"><p>Local Events</p>
+      <p>Barton vanity itself do in it. Preferd to men it engrossed listening.</p>
+    </div>
+    <div class="quatro"><img src="#" alt="#"><p>Customization</p>
+      <p>We deliver outsourced avaliation services for military customers</p>
+    </div>
+    </section>
+    
+  <section>
+      <p>Top Selling</p>
+      <h2>Top Destinatiopns</h2>
+      <div class="Roma"><img src="#" alt="#">
+       <p>Rome,Italy</p>
+       <p>$5,42k</p>
+       <p>10 Days Trip</p>
+      </div>
+    <div class="londres"><img src="#" alt="#">
+       <p>London,Uk</p>
+       <p>$4.2k</p>
+       <p>12 Days Trip</p>
+      </div>
+     <div class="Europa"><img src="#" alt="#">
+       <p>Full Europe</p>
+       <p>$15k</p>
+       <p>28 Days Trip</p>
+      </div>
+  </section>
+    <section>
+      <div>
+      <p>Easy and Fast</p>
+      <h3>Book Your Next Trip In 3 Easy Steps</h3>
+       </div>
+      <div class="quadrado"><img src="#" alt="#">
+       <p>Choose Destination</p>
+       <p>Lorem, ipsum dolor sit amet, consectetur adipiscing elit. Urna tempus.</p>
+    </section>
+      <div class="quadrado2"><img src="#" alt="#">
+       <p>Make Payment</p>
+       <p>Lorem, ipsum dolor sit amet, consectetur adipiscing elit. Urna tempus.</p>
+    </section>
+      <div class="quadrado3"><img src="#" alt="#">
+      <p>Reach Airport on Selected Date</p>
+       <p>Lorem, ipsum dolor sit amet, consectetur adipiscing elit. Urna tempus.</p>
+        
+        <img src="#" alt="#">
+        <p>Trip To Greece</p>
+        <p>14-29| by Robbin</p>
+        <img src="#" alt="#">
+        <img src="#" alt="#">
+        <img src="#" alt="#">
+        <p>24 people going</p>
+        <img src="#" alt="#">
+    </section>
+      <section>
+        <h3>Subscrite to get information, lastet newa and other, interesting offers about Jadoo</h3>
+        <form action=""></form>
+      </section>
+    
+    
+    
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
   </main>
 </body>
 </html>
