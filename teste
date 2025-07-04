@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WebSite</title>
+</head>
+<body>
+  <header class=navegação>
+    <div class="logo">Jaboo</div>
+    <nav class=links>
+        <li>Desitnations</li>
+        <li>Hotels</li>
+        <li>Fights</li>
+        <li>Bookings</li>
+        <a href="#">Login</a> 
+        <button class=butão>Sign Up</button>
+        <select name="idioma" id="idioma">
+         <option value="en">EN</option>
+         <option value="pt">PT</option>
+        </select>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <div>
+      <h5>Best Destinations Around The World</h5>
+      <h1>Travel,<div class="c">enjoy</div> and live a new and full life</h1>
+    </div>
+  </main>
+</body>
+</html>
