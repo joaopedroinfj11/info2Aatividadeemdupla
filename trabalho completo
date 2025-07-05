@@ -95,26 +95,13 @@
     </section>
       <section>
         <h3>Subscrite to get information, lastet newa and other, interesting offers about Jadoo</h3>
-        <form action=""></form>
-      </section>
-    
-    
-    
-   
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        <form class="email">
+          <label for="email">
+            <input placeholder="Your Email"></input>
+            <button>Subscribe</button>
+          </label>
+        </form>
+    </section>
   </main>
 </body>
 </html>
