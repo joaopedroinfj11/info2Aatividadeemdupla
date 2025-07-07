@@ -67,26 +67,26 @@
 
     <h2 class="ha">We Offer Best Services</h2>
 <div class="row">
-    <div class="um"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDQIfJpoOcBrwYRnkkFwiBYtJvYg-Zgzi5g&s" width="300" height="250" alt=""><p>Calculated Weather</p>
+    <div class="um"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDQIfJpoOcBrwYRnkkFwiBYtJvYg-Zgzi5g&s" width="100" height="100" alt=""><p>Calculated Weather</p>
 
       <p>Built Wicket longer admire do barton vanity itself do in it.</p>
 
     </div>
 
-    <div class="dois"><img src="https://cdn-icons-png.flaticon.com/512/7893/7893979.png" width="300" height="250" alt=""><p>Best Flights</p>
+    <div class="dois"><img src="https://cdn-icons-png.flaticon.com/512/7893/7893979.png" width="100" height="100" alt=""><p>Best Flights</p>
 
       <p>Engrossed listening. park gate sell they west hard for the.</p>
 
     </div>
 
-    <div class="tres"><img src="https://cdn-icons-png.flaticon.com/512/483/483038.png" width="300" height="250" alt=""><p>Local Events</p>
+    <div class="tres"><img src="https://cdn-icons-png.flaticon.com/512/483/483038.png" width="100" height="100" alt=""><p>Local Events</p>
 
       <p>Barton vanity itself do in it. Preferd to men it engrossed listening.</p>
 
     </div>
 
     <div class="quatro">
-      <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="300" height="250" alt=""><p>Customization</p>
+      <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="100" height="100" alt=""><p>Customization</p>
 
       <p>We deliver outsourced avaliation services for military customers</p>
 
@@ -140,28 +140,28 @@
       <p>Easy and Fast</p>
 
       <h3>Book Your Next Trip In 3 Easy Steps</h3>
-
        </div>
-<div class="ko"></div>
+        
+<div class="ko">
       <div class="quadrado"><img src="https://cdn-icons-png.flaticon.com/512/2106/2106518.png" wight="40" height="40" alt="#"><h5>Choose Destination</h5>
   <p>Lorem, ipsum dolor sit amet, consectetur adipiscing elit. Urna tempus.</p>
   </div>
-  </section>
 
       <div class="quadrado2"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujAgmFQCaOtgfzwGzDDRcOonOJ7C2m-hqlQ&s" wight="40" height="40" alt="#">
 
        <h5>Make Payment</h5>
 
-       <p>Lorem, ipsum dolor sit amet, consectetur adipiscing elit. Urna tempus.</p>
+       <p>Lorem, ipsum dolor sit amet, consectetur adipiscing elit. Urna tempus.</p></div>
 
   <div class="quadrado3"><img src="https://static.vecteezy.com/ti/vetor-gratis/p1/4999433-car-icon-car-icon-vector-on-white-background-vector-illustration-gratis-vetor.jpg" wight="40" height="40" alt="#">
 
    <h5>Reach Airport on Selected Date</h5>
 
    <p>Lorem, ipsum dolor sit amet, consectetur adipiscing elit. Urna tempus.</p>
-
+   </div>
+        </div>
         
-<aside class="mulher">
+<div class="mulher">
         <img src="https://thumbs.dreamstime.com/b/viagem-de-f%C3%A9rias-da-europa-divers%C3%A3o-mulher-ver%C3%A3o-dan%C3%A7ando-em-liberdade-com-armas-felizes-na-ilha-oia-santorini-gr%C3%A9cia-sem-194079060.jpg" wight="180" height="180" alt="#">
       <div class="socorro">
         <p>Trip To Greece</p>
@@ -176,12 +176,9 @@
 
         <p>24 people going</p>
 
-        <img src="#" wight="30" height="30" alt="#">
   </div>
-        </div>
-        </div>
+        
         </section>
-         </aside>
        
       <section>
         <h3>Subscrite to get information, lastet newa and other, interesting offers about Jadoo</h3>
@@ -197,7 +194,6 @@
           </label>
 
         </form>
-
     </section>
 
   </main>
@@ -350,13 +346,7 @@ padding:3em;
 
 border:1em; 
 }
+
 .mulher{
- 
-  grid-row:1/2;
-   grid-column:2/3;
-}
-.ko{
-  display:grid  ;
-  grid-template-rows: repeat(3,1fr);
- grid-template-columns:(2, 1fr) ;
-}
+  display: flex;
+  flex-wrap: wrap;}
